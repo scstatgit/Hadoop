@@ -1,4 +1,5 @@
-# Hello-World! This is my first time to running the Hadoop
+# Map/Reduce simple example with data
+Hello-World! This is my first time to running the Hadoop.
 it contains three files.
 - report.txt: test data of the word count
 - mapper.py: mapping the data
