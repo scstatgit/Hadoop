@@ -1,0 +1,1 @@
+Hello, this is a sample text for Hadoop MapReduce WordCount example. In this example, we will demonstrate how to count the occurrences of each word in this text using Hadoop MapReduce.
